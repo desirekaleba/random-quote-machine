@@ -4,3 +4,6 @@
 
 ## API used
 >https://thesimpsonsquoteapi.glitch.me/
+
+## CodePen URL
+>https://codepen.io/desirekaleba/pen/zYrvKwp
