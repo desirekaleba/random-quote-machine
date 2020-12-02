@@ -1,10 +1,6 @@
-var quote = '';
-var author = '';
-var retweetURL = '';
-
-function newWindow(url) {
-    window.open(url, 'Share', 'width=400, height=300, toolbar=0, scrollbars=1, location=0, statusbar=0, menubar=0, resizable=0');
-}
+let quote = '';
+let author = '';
+let retweetURL = '';
 
 function fetchQuote() {
     $("#text").text("Loading...");
